@@ -112,3 +112,12 @@ This Power BI dashboard provides a comprehensive view of call center performance
 
 The dashboards help stakeholders make informed, data-driven decisions to improve operational efficiency and customer satisfaction.
 
+
+---
+## Dashboard Images
+
+### Home Dashboard
+![Call Center Data Analysis Dashboard](./Call%20Centre%20Analysis%20-%20Home%20Dashboard.png)
+
+### Grid Dashboard
+![Call Center Data Analysis Dashboard](./Call%20Centre%20Analysis%20-%20Grid%20Dashboard.png)
